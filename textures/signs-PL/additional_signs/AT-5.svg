@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.0"
+   width="262.2774"
+   height="262.2774"
+   id="svg2">
+  <defs
+     id="defs4">
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern5932">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect5934"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <pattern
+       id="pattern4002"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect2240"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       style="overflow:visible"
+       id="Arrow2Lstart">
+      <path
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.97309,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path5785" />
+    </marker>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern6389">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect6391"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <pattern
+       id="pattern6385"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect6387"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       style="overflow:visible"
+       id="marker6381">
+      <path
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.97309,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path6383" />
+    </marker>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern10313">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect10315"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <pattern
+       id="pattern10309"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect10311"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       style="overflow:visible"
+       id="marker10305">
+      <path
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.97309,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path10307" />
+    </marker>
+  </defs>
+  <g
+     transform="translate(-240.9085,-395.0424)"
+     id="layer1">
+    <g
+       id="g8078">
+      <path
+         d="M 245.52859,399.66249 L 245.52859,652.69972 L 498.56581,652.69972 L 498.56581,399.66249 L 245.52859,399.66249 z "
+         style="fill:white;stroke:black;stroke-width:9.24019146;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path2200" />
+      <path
+         d="M 310.30355,439.43881 L 310.30355,612.9234 L 339.62621,612.9234 L 339.62621,554.40757 L 352.99807,539.35992 L 403.30328,612.9234 L 441.79086,612.9234 L 372.54645,517.37109 L 441.79086,439.43881 L 403.32478,439.43881 L 339.62621,511.10921 L 339.62621,439.43881 L 310.30355,439.43881 z "
+         style="fill:black;fill-opacity:1;stroke:none;stroke-width:7;stroke-miterlimit:4;stroke-opacity:1"
+         id="path6144" />
+    </g>
+  </g>
+</svg>

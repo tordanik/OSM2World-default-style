@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="500.00015"
+   height="499.99979"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.44.1"
+   version="1.0"
+   sodipodi:docbase="C:\Documents and Settings\Damian\Pulpit\znaki drogowe\svg"
+   sodipodi:docname="Znak B-42.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="375"
+     inkscape:cy="520"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:window-width="853"
+     inkscape:window-height="573"
+     inkscape:window-x="110"
+     inkscape:window-y="145" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-213.4095,-356.6476)">
+    <g
+       id="g2033">
+      <path
+         sodipodi:type="arc"
+         style="fill:white;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:119.19999695;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path8158"
+         sodipodi:cx="-732.85712"
+         sodipodi:cy="118.57164"
+         sodipodi:rx="304.28571"
+         sodipodi:ry="304.28571"
+         d="M -428.57141 118.57164 A 304.28571 304.28571 0 1 1  -1037.1428,118.57164 A 304.28571 304.28571 0 1 1  -428.57141 118.57164 z"
+         transform="matrix(0.821596,0,0,0.821595,1065.522,509.2299)" />
+      <path
+         id="path3467"
+         d="M 233.78717,507.89362 C 179.27511,634.64491 237.90418,781.75755 364.65564,836.26955 C 491.40712,890.78162 638.51985,832.15255 693.03188,705.40122 C 747.54402,578.64992 688.91488,431.53728 562.16341,377.0253 C 435.41203,322.51322 288.29931,381.1423 233.78717,507.89362 z M 236.08342,508.88115 C 290.05043,383.39731 435.69185,325.35454 561.17594,379.32151 C 686.65993,433.28848 744.70271,578.92977 690.7357,704.41363 C 636.76874,829.89757 491.12727,887.9402 365.64324,833.97339 C 240.15913,780.0064 182.11643,634.36504 236.08342,508.88115 z "
+         style="fill:black;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:119.19999695;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cssssss"
+         id="path3465"
+         d="M 409.91279,849.70228 C 444.06276,770.29683 563.97745,491.47163 602.98245,400.77744 C 604.08799,398.20688 582.25691,386.65565 559.98678,377.50102 C 538.93478,368.8469 517.42074,362.45559 516.86752,363.74197 C 477.7989,454.58414 367.50867,711.03052 323.79784,812.66675 C 323.6148,813.09246 340.12397,824.29012 359.8288,832.77653 C 382.9047,842.71479 409.73994,850.10418 409.91279,849.70228 z "
+         style="fill:black;fill-rule:evenodd;stroke:black;stroke-width:0.5633657px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>

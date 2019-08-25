@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   viewBox="0 0 423 423"
+   height="423"
+   width="423"
+   xml:space="preserve"
+   version="1.1"
+   id="svg18484"><metadata
+     id="metadata18490"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+     id="defs18488" /><g
+     transform="matrix(1.25,0,0,-1.25,0,422.99999)"
+     id="g18492"><g
+       id="g18494"><path
+         id="path18496"
+         style="fill:#c1121c;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="M 337.344,338.146 0.801,338.228 c -0.446,0 -0.606,-0.406 -0.606,-0.848 L 0.254,1.052 c 0,-0.441 0.355,-0.797 0.797,-0.797 l 336.293,0 c 0.445,0 0.801,0.356 0.801,0.797 l 0,336.293 c 0,0.446 -0.356,0.801 -0.801,0.801 z" /><path
+         id="path18498"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         d="m 338.316,225.42 -113.015,112.816 -112.18,0.105 225.152,-225.425 0.043,112.504 z" /><path
+         id="path18500"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         d="M 337.758,0.072 0.16,337.099 0.133,226.521 225.898,0.197 337.758,0.072 Z" /><path
+         id="path18502"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         d="M 0.133,112.244 111.805,0.099 0.953,0.099 0.824,0.138 0.25,0.291 0.16,0.517 0.133,112.244 Z" /><path
+         id="path18504"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 337.637,338.4 c 0.418,0 0.761,-0.344 0.761,-0.762 l 0,-336.875 c 0,-0.418 -0.343,-0.761 -0.761,-0.761 l -336.875,0 C 0.344,0.002 0,0.345 0,0.763 l 0,336.875 c 0,0.418 0.344,0.762 0.762,0.762 l 336.875,0 z m 0,-0.254 -336.875,0 c -0.282,0 -0.508,-0.226 -0.508,-0.508 l 0,-336.875 c 0,-0.281 0.226,-0.508 0.508,-0.508 l 336.875,0 c 0.281,0 0.508,0.227 0.508,0.508 l 0,336.875 c 0,0.282 -0.227,0.508 -0.508,0.508 z" /></g></g></svg>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.0"
+   width="497"
+   height="497"
+   id="svg2">
+  <defs
+     id="defs4">
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern5932">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect5934"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <pattern
+       id="pattern4002"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect2240"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="Arrow2Lstart"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         id="path5785"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+  </defs>
+  <g
+     transform="translate(-905.57127,-70.790627)"
+     id="layer1">
+    <g
+       id="g4644">
+      <circle
+         cx="250"
+         cy="250"
+         r="223"
+         transform="matrix(0.99792936,0,0,0.99792936,904.57334,69.823873)"
+         id="circle41414"
+         style="fill:#ffffff;stroke:#d40000;stroke-width:52" />
+      <path
+         d="m 1085.491,177.53623 c -20.6551,0 -27.082,8.12058 -27.082,27.19698 l 0,147.24818 190.3334,-0.36917 0,-147.24818 c 0,-19.07643 -6.4269,-26.82781 -27.082,-26.82781 l -136.1694,0 z"
+         id="rect1969-0"
+         style="fill:#ff9600;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:8.83803749;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         d="m 1067.6809,360.35927 c -4.5141,0.007 -9.0638,0.8631 -13.6438,2.54095 l 0,75.56522 c 8.2951,5.31823 18.7642,5.3802 27.0942,0 l 0,-18.33893 4.9715,0 0,-10.43994 45.2673,0 11.4619,0 c 2.4828,3.21755 6.3683,5.30283 10.7437,5.30283 4.3754,0 8.2607,-2.08528 10.7437,-5.30283 l 18.3666,0 38.3626,0 0,10.43994 4.9713,0 0,18.33893 c 8.3302,5.3802 18.7993,5.31823 27.0943,0 l 0,-75.56522 c -9.16,-3.35567 -18.1803,-3.40963 -27.0943,0 l 0,18.33893 -4.9713,0 0,12.23516 -38.556,0 -17.9245,0 c -2.4673,-3.40394 -6.47,-5.63426 -10.9924,-5.63426 -4.5224,0 -8.5251,2.23032 -10.9922,5.63426 l -11.2134,0 -45.2673,0 0,-12.23516 -4.9715,0 0,-18.33893 c -4.4568,-1.70481 -8.9359,-2.54768 -13.4504,-2.54095 z"
+         id="rect3746-9"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    </g>
+  </g>
+</svg>

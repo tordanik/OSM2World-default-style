@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="262.2774"
+   height="262.2774"
+   id="svg2"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="AJAX.svg">
+  <metadata
+     id="metadata30">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="1004"
+     id="namedview28"
+     showgrid="false"
+     inkscape:zoom="0.89981064"
+     inkscape:cx="-42.231108"
+     inkscape:cy="131.1387"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g9725" />
+  <defs
+     id="defs4">
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern5932">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect5934"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <pattern
+       id="pattern4002"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect2240"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       style="overflow:visible"
+       id="Arrow2Lstart">
+      <path
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.97309,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path5785" />
+    </marker>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern6389">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect6391"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <pattern
+       id="pattern6385"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect6387"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       style="overflow:visible"
+       id="marker6381">
+      <path
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.97309,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path6383" />
+    </marker>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern10313">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect10315"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <pattern
+       id="pattern10309"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect10311"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       style="overflow:visible"
+       id="marker10305">
+      <path
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.97309,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path10307" />
+    </marker>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern21944">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect21946"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+  </defs>
+  <g
+     transform="translate(-240.9085,-395.0424)"
+     id="layer1">
+    <g
+       id="g9725">
+      <path
+         d="M 253.65665,407.79055 L 253.65665,644.57166 L 490.43775,644.57166 L 490.43775,407.79055 L 253.65665,407.79055 z "
+         style="fill:white;stroke:#d40000;stroke-width:27;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path2200" />
+      <path
+         d="M 330.08735,457.87536 L 373.9513,457.87536 C 382.63421,457.87551 389.10903,458.32589 393.37567,459.22656 C 397.64226,460.1275 401.45977,462.00676 404.82823,464.86434 C 408.19656,467.7222 411.00352,471.52732 413.24922,476.27972 C 415.49471,481.03236 416.61752,486.35947 416.61763,492.26119 C 416.61752,498.66011 415.23273,504.53085 412.46327,509.87343 C 409.69362,515.21624 405.93847,519.22324 401.19786,521.8945 C 407.88466,524.31745 413.02456,528.4487 416.61763,534.28834 C 420.21047,540.12806 422.00696,546.99284 422.00706,554.88256 C 422.00696,561.09503 420.84672,567.13664 418.52637,573.00737 C 416.20581,578.87811 413.03705,583.56851 409.02,587.07852 C 405.00282,590.58853 400.05004,592.74737 394.16166,593.55499 C 390.46882,594.05198 381.56132,594.36262 367.43909,594.48684 L 330.08735,594.48684 L 330.08735,457.87536 z M 352.24389,480.61288 L 352.24389,512.20312 L 366.76542,512.20312 C 375.39841,512.2032 380.76287,512.04791 382.85884,511.73718 C 386.65136,511.17814 389.633,509.5474 391.80378,506.8449 C 393.97446,504.14258 395.05984,500.58598 395.05992,496.17501 C 395.05984,491.95068 394.12416,488.51832 392.2529,485.87793 C 390.38153,483.23777 387.59946,481.63805 383.90677,481.07878 C 381.71103,480.7683 375.39841,480.61298 364.96892,480.61288 L 352.24389,480.61288 z M 352.24389,534.94061 L 352.24389,571.46976 L 372.75367,571.46976 C 380.73796,571.4698 385.80299,571.19022 387.94884,570.63109 C 391.24231,569.88559 393.92454,568.06852 395.99556,565.17968 C 398.06646,562.29094 399.10191,558.42368 399.102,553.57796 C 399.10191,549.4778 398.30346,545.99881 396.70669,543.14103 C 395.10972,540.28338 392.80177,538.20222 389.78275,536.89754 C 386.76362,535.59299 380.21397,534.94068 370.1338,534.94061 L 352.24389,534.94061 z "
+         style="font-size:64px;fill:black;fill-opacity:1"
+         id="flowRoot5763" />
+    </g>
+  </g>
+</svg>

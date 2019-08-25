@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="74.039444mm"
+   height="128.79607mm"
+   viewBox="0 0 74.039444 128.79607"
+   version="1.1"
+   id="svg691"
+   inkscape:version="0.92.4 (33fec40, 2019-01-16)"
+   sodipodi:docname="B-44_stripe.svg">
+  <defs
+     id="defs685" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="205.63037"
+     inkscape:cy="180.53691"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1366"
+     inkscape:window-height="740"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata688">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-51.426965,-67.804329)">
+    <path
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.1490826px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path3465"
+       d="m 74.289673,196.52163 c 9.03705,-21.01295 40.769877,-94.79806 51.091697,-118.798347 0.29256,-0.680251 -5.48456,-3.737033 -11.37787,-6.159611 -5.57095,-2.290111 -11.26418,-3.981442 -11.41058,-3.64104 -10.338661,24.039439 -39.524578,91.902488 -51.091701,118.798338 -0.04844,0.11266 4.320357,3.07587 9.534813,5.32162 6.106536,2.62995 13.207899,4.58539 13.253641,4.47904 z"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

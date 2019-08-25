@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="500.00009"
+   height="500.00021"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.44.1"
+   version="1.0"
+   sodipodi:docbase="C:\Documents and Settings\Damian\Pulpit\znaki drogowe\svg"
+   sodipodi:docname="Znak B-24.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-106.79145"
+     inkscape:cy="265.32878"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1024"
+     inkscape:window-height="708"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(690.4265,-159.9051)">
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;fill:white;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:119.19999695;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path8158"
+       sodipodi:cx="-732.85712"
+       sodipodi:cy="118.57164"
+       sodipodi:rx="304.28571"
+       sodipodi:ry="304.28571"
+       d="M -428.57141 118.57164 A 304.28571 304.28571 0 1 1  -1037.1428,118.57164 A 304.28571 304.28571 0 1 1  -428.57141 118.57164 z"
+       transform="matrix(0.821736,0,0,0.821736,161.7886,312.4706)" />
+    <path
+       id="path3467"
+       d="M -670.08787,311.13454 C -724.60919,437.90747 -665.97016,585.04527 -539.19714,639.56659 C -412.42411,694.08799 -265.28637,635.44889 -210.76507,508.67588 C -156.24366,381.90289 -214.88277,234.76515 -341.65579,180.2438 C -468.42872,125.72243 -615.56646,184.36151 -670.08787,311.13454 z M -667.79122,312.12222 C -613.81504,186.6169 -468.14886,128.56422 -342.64343,182.54039 C -217.1381,236.5166 -159.08545,382.18279 -213.06164,507.68812 C -267.03778,633.19352 -412.70401,691.24608 -538.20938,637.27004 C -663.71482,583.29382 -721.76739,437.62755 -667.79122,312.12222 z "
+       style="fill:black;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:119.19999695;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       style="fill:#a9a8a7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.5999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M -598.61832,389.38442 L -598.61832,431.83154 L -621.31772,431.83154 L -572.51972,512.53142 L -521.38238,431.83154 L -548.65872,431.83154 C -548.65872,265.41915 -358.43108,266.91211 -358.43108,431.83154 C -358.43108,488.71798 -358.43108,557.4135 -358.43108,557.4135 L -311.53518,557.4135 L -311.53518,389.38442 C -311.53518,333.87069 -370.73193,262.39692 -456.85378,262.39692 C -534.47932,262.39692 -598.61832,331.8527 -598.61832,389.38442 z "
+       id="rect1872"
+       sodipodi:nodetypes="ccccccscccsc" />
+    <path
+       sodipodi:nodetypes="cssssss"
+       id="path3465"
+       d="M -493.9323,653.00162 C -459.77652,573.58259 -339.84144,294.70972 -300.82981,203.99999 C -299.72408,201.42896 -321.55888,189.87577 -343.83279,180.71957 C -364.88837,172.06403 -386.40607,165.6716 -386.95938,166.95816 C -426.03465,257.81588 -536.34363,514.30614 -580.06189,615.95976 C -580.24496,616.38554 -563.73298,627.58511 -544.0248,636.07298 C -520.94498,646.01294 -494.10518,653.40359 -493.9323,653.00162 z "
+       style="fill:black;fill-rule:evenodd;stroke:black;stroke-width:0.56346178px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </g>
+</svg>

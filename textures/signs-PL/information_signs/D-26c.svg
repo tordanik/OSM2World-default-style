@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="602"
+   height="752"
+   id="svg3674">
+  <defs
+     id="defs3676" />
+  <g
+     transform="translate(-15.894142,335.17397)"
+     id="layer1">
+    <g
+       transform="matrix(0.9999055,0,0,0.9999055,16.894048,-334.103)"
+       id="layer1-9">
+      <rect
+         width="600"
+         height="750"
+         rx="30.572701"
+         ry="30.572701"
+         x="0"
+         y="0"
+         id="rect2188"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <rect
+         width="589"
+         height="739"
+         rx="25.588236"
+         ry="25.588236"
+         x="5.5"
+         y="5.5"
+         id="rect1307"
+         style="fill:#003399;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <rect
+         width="440"
+         height="440"
+         ry="0"
+         x="80"
+         y="80"
+         id="rect3055"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      
+    </g>
+    <g
+       transform="matrix(2.0332912,0,0,2.0332912,-16.423277,-430.70266)"
+       id="text3720"
+       style="font-size:108.45864105px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Drogowskaz;-inkscape-font-specification:Drogowskaz Bold">
+      <path
+         d="m 76.001152,140.75064 13.55733,0 13.557328,54.22932 13.55733,-54.22932 13.55733,0 13.55733,54.22932 13.55733,-54.22932 13.55733,0 -20.33599,81.34398 -13.55733,0 -13.55733,-54.22932 -13.55733,54.22932 -13.557333,0 z"
+         id="path3725"
+         style="fill:#000000" />
+      <path
+         d="m 252.82527,214.63743 c -7.68343,6.10124 -16.4392,9.15185 -26.26732,9.15186 -11.75017,-1e-5 -21.7488,-4.12358 -29.99593,-12.37074 -8.24716,-8.24713 -12.37074,-18.24576 -12.37073,-29.99592 -1e-5,-11.75008 4.12357,-21.74871 12.37073,-29.99592 8.24713,-8.24708 18.24576,-12.37065 29.99593,-12.37074 9.94286,9e-5 18.7549,3.10697 26.43613,9.32067 l -6.60986,12.20027 c -5.53421,-5.309 -12.14296,-7.96354 -19.82627,-7.96361 -7.90849,7e-5 -14.68714,2.82451 -20.336,8.47333 -5.64891,5.64895 -8.47335,12.42761 -8.47333,20.336 -2e-5,7.90847 2.82442,14.68713 8.47333,20.33599 5.64886,5.64891 12.42751,8.47335 20.336,8.47334 7.56857,1e-5 14.12105,-2.59826 19.65746,-7.79481 z"
+         id="path3727"
+         style="fill:#000000" />
+    </g>
+  </g>
+</svg>

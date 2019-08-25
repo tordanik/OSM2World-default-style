@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="602.20001"
+   height="752.20001"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.48.2 r9819"
+   version="1.0"
+   sodipodi:docname="Aa.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.708"
+     inkscape:cx="237.51129"
+     inkscape:cy="294.27423"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="1004"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     fit-margin-top="0.1"
+     fit-margin-left="0.1"
+     fit-margin-right="0.1"
+     fit-margin-bottom="0.1"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       id="GridFromPre046Settings"
+       type="xygrid"
+       originx="0px"
+       originy="230px"
+       spacingx="55px"
+       spacingy="55px"
+       color="#0000ff"
+       empcolor="#0000ff"
+       opacity="0.2"
+       empopacity="0.4"
+       empspacing="8"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>PL - Znak drogowy D15</dc:title>
+        <dc:date>29.07.2006</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>MaciekS</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Free</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Wikipedia</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>znak drogowy informacyjny</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:description>Znaki drogowe -Polska. Wykonane na podstawie załącznika do Ustawy</dc:description>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(1.1,1.1)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect2188"
+       width="600"
+       height="750"
+       x="0"
+       y="0"
+       ry="21.226416" />
+    <rect
+       style="fill:#003399;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect1307"
+       width="589"
+       height="739"
+       x="5.5"
+       y="5.5"
+       ry="20.915094" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3055"
+       width="440"
+       height="440"
+       x="80"
+       y="80"
+       ry="0" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 225.66775,123.83971 0,149.39515 25.49561,0 0,-62.13643 42.38804,0 c 0,0 25.74611,-13.95948 25.74611,-43.57707 0,-32.21756 -25.74611,-43.68165 -25.74611,-43.68165 l -42.38804,0 -25.49561,0 z m 60.32472,24.89222 c 0,0 8.74934,9.38998 8.74934,18.78943 0,9.39944 -8.74934,18.81034 -8.74934,18.81034 l -34.82911,0 0,-37.24421 34.82911,-0.35556 z"
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       id="path5657" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 121.85926,122.82886 0,149.39515 4.02927,0 21.14914,0 56.99633,0 0,-25.22679 -56.99633,0 0,-124.16836 -25.17841,0 z"
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       id="path5702" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 416.11875,126.38126 c -41.48991,0 -75.1875,33.70665 -75.1875,75.21875 -10e-6,41.5152 33.69758,75.1875 75.1875,75.1875 22.84543,-0.8842 48.5912,-10.09875 59,-31.96875 l 0,-55.53125 -58.1875,0 0,25.40625 34.4375,0 0,24.75 c -9.0669,8.23795 -21.07878,13.25 -34.28125,13.25 -28.19014,0 -51.09375,-22.8876 -51.09375,-51.09375 1e-5,-27.76224 22.16902,-50.39356 49.75,-51.09375 0.43695,-0.013 0.90309,0 1.34375,0 13.15912,0 25.34834,4.96865 34.40625,13.15625 l 11.21875,-21.09375 c -12.80358,-10.11969 -29.02235,-16.1875 -46.59375,-16.1875 z"
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       id="path2738" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 182.11875,318.38126 c -41.48991,0 -75.1875,33.70665 -75.1875,75.21875 -1e-5,41.5152 33.69758,75.1875 75.1875,75.1875 22.84543,-0.8842 48.5912,-10.09875 59,-31.96875 l 0,-55.53125 -58.1875,0 0,25.40625 34.4375,0 0,24.75 c -9.0669,8.23795 -21.07878,13.25 -34.28125,13.25 -28.19014,0 -51.09375,-22.8876 -51.09375,-51.09375 1e-5,-27.76224 22.16902,-50.39356 49.75,-51.09375 0.43695,-0.013 0.90309,0 1.34375,0 13.15912,0 25.34834,4.96865 34.40625,13.15625 l 11.21875,-21.09375 c -12.80358,-10.11969 -29.02235,-16.1875 -46.59375,-16.1875 z"
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       id="path2750" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 389.11961,468.68594 -29.08186,0 -11.56048,-34.16454 -52.92529,0 -10.92828,34.16454 -28.35932,0 51.57054,-150.406 28.26905,0 53.01564,150.406 z m -49.2223,-59.50579 -18.24396,-55.81231 -17.88259,55.81231 36.12655,0 z"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"
+       id="text14715" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 404.26523,318.4125 0,25.39563 51.12203,0 -50.87103,111.0518 0,13.95857 87.87707,0 0,-25.3805 -50.9341,0 51.07539,-113.10281 0,-11.92269 -88.26936,0 z"
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       id="path16401" />
+  </g>
+</svg>

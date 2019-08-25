@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="500"
+   height="500"
+   id="svg4555"
+   sodipodi:version="0.32"
+   inkscape:version="0.44.1"
+   version="1.0"
+   sodipodi:docbase="C:\Documents and Settings\Damian\Pulpit\znaki drogowe\svg"
+   sodipodi:docname="Znak B-40.svg">
+  <defs
+     id="defs4557" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="375"
+     inkscape:cy="405.71429"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:window-width="853"
+     inkscape:window-height="573"
+     inkscape:window-x="132"
+     inkscape:window-y="161" />
+  <metadata
+     id="metadata4560">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(392.8572,-148.0764)">
+    <g
+       id="g5848">
+      <rect
+         ry="39.845932"
+         y="149.70349"
+         x="-391.23013"
+         height="496.74591"
+         width="496.74591"
+         id="rect2064"
+         style="fill:white;fill-opacity:1;fill-rule:nonzero;stroke:black;stroke-width:3.25408435;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <g
+         transform="translate(-338.5715,-21.42879)"
+         id="g5843">
+        <path
+           id="path8679"
+           style="fill:white;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="M -0.54096018,419.50524 C -0.54096018,527.88724 87.32552,615.7482 195.71431,615.7482 C 304.10311,615.7482 391.96959,527.88724 391.96959,419.50524 C 391.96959,311.12326 304.10311,223.26229 195.71432,223.26229 C 87.32552,223.26229 -0.54096018,311.12326 -0.54096018,419.50524 z " />
+        <path
+           id="path3063"
+           style="fill:#b7b7b7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="M 195.71431,219.50516 C 306.11636,219.50516 395.71435,309.11973 395.71435,419.51782 C 395.71435,529.91589 306.11635,619.50533 195.71431,619.50532 C 85.312263,619.50532 -4.285713,529.91589 -4.285721,419.51782 C -4.285721,309.11974 85.312263,219.50516 195.71431,219.50516 z M 195.71431,258.62277 C 106.89467,258.62277 34.809191,330.70374 34.809191,419.51782 C 34.809199,508.3319 106.89466,580.41286 195.71431,580.41286 C 284.53397,580.41285 356.61943,508.3319 356.61943,419.51782 C 356.61943,330.70374 284.53396,258.62277 195.71431,258.62277 z " />
+        <rect
+           id="rect3274"
+           style="fill:#b7b7b7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.5999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           transform="matrix(-0.70714,-0.707074,-0.707121,0.707092,0,0)"
+           y="128.61394"
+           x="-622.1333"
+           ry="0"
+           height="59.300911"
+           width="374.20831" />
+      </g>
+      <path
+         sodipodi:nodetypes="ccsccsc"
+         id="rect4571"
+         d="M 53.057386,151.67195 L -389.73048,594.45985 C -389.73048,594.45985 -395.58388,621.6586 -380.52988,635.4802 C -365.86148,648.94778 -339.00656,645.18373 -339.00656,645.18373 L 103.78123,202.39583 C 103.78123,202.39583 110.61203,177.30389 93.601026,161.85846 C 75.427926,145.35795 53.057386,151.67195 53.057386,151.67195 z "
+         style="fill:black;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.48821878;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>
