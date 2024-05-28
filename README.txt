@@ -8,3 +8,8 @@ http://wiki.osm.org/OSM2World/Configuration_file
 Many of the textures were contributed by members of the OpenStreetMap community and released into the Public Domain. Visit http://wiki.openstreetmap.org/wiki/Texture_Library to find out about the contributors and discover more texture images.
 
 The configuration file and all additional textures have likewise been released into the Public Domain (see http://creativecommons.org/publicdomain/zero/1.0/).
+
+## Conventions for textures
+
+- Textures should preferably use power-of-two dimensions.
+- When using CLAMP mode for textures with a transparent border which do not cover the entire geometry, add 25% transparent padding (12.5% on each side, relative to the original image size) and set padding to 0.1 in the .properties file.
