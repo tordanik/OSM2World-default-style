@@ -32,7 +32,7 @@
 		{
 			"name":"body",
 			"pbrMetallicRoughness" : {
-			    "baseColorFactor" : [0.8, 0.036, 0.036]
+			    "baseColorFactor" : [1.0, 0, 1.0]
 			}
 		},
 		{

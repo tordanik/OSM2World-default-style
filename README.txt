@@ -15,3 +15,4 @@ The configuration file and all additional textures have likewise been released i
 - When using CLAMP mode for textures with a transparent border which do not cover the entire geometry, add 25% transparent padding (12.5% on each side, relative to the original image size) and set padding to 0.1 in the .properties file.
 
 - Models face towards positive z direction in glTF (i.e. towards the front).
+- Models can use FF00FF as a placeholder color to be replaced with a per-instance color by OSM2World.
