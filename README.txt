@@ -9,7 +9,9 @@ Many of the textures were contributed by members of the OpenStreetMap community 
 
 The configuration file and all additional textures have likewise been released into the Public Domain (see http://creativecommons.org/publicdomain/zero/1.0/).
 
-## Conventions for textures
+## Conventions for assets
 
 - Textures should preferably use power-of-two dimensions.
 - When using CLAMP mode for textures with a transparent border which do not cover the entire geometry, add 25% transparent padding (12.5% on each side, relative to the original image size) and set padding to 0.1 in the .properties file.
+
+- Models face towards positive z direction in glTF (i.e. towards the front).
