@@ -1,0 +1,46 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<!-- Maven configuration, allows this style to be used alongside the OSM2World library by developers -->
+
+	<packaging>jar</packaging>
+	<groupId>org.osm2world</groupId>
+	<artifactId>osm2world-style</artifactId>
+	<version>0.5.0-SNAPSHOT</version>
+
+	<name>OSM2World Default Style</name>
+	<description>Standard visual style for OSM2World</description>
+
+	<licenses>
+		<license>
+			<name>CC0 1.0 Universal</name>
+			<url>https://creativecommons.org/publicdomain/zero/1.0/</url>
+		</license>
+	</licenses>
+
+	<issueManagement>
+		<system>GitHub</system>
+		<url>https://github.com/tordanik/OSM2World-default-style/issues</url>
+	</issueManagement>
+
+	<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+	</properties>
+
+	<build>
+		<resources>
+			<resource>
+				<directory>${project.basedir}</directory>
+				<excludes>
+					<exclude>pom.xml</exclude>
+					<exclude>README.txt</exclude>
+					<exclude>.gitignore</exclude>
+				</excludes>
+			</resource>
+		</resources>
+	</build>
+
+</project>
+
