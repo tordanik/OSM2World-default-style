@@ -35,7 +35,7 @@
 				<directory>${project.basedir}</directory>
 				<excludes>
 					<exclude>pom.xml</exclude>
-					<exclude>README.txt</exclude>
+					<exclude>README.md</exclude>
 					<exclude>.gitignore</exclude>
 				</excludes>
 			</resource>
