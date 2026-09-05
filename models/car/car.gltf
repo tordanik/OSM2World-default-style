@@ -15,7 +15,7 @@
 	"nodes":[
 		{
 			"mesh":0,
-			"name":"car-coupe-red",
+			"name":"car-coupe",
 			"scale":[
 				2,
 				2,
@@ -31,45 +31,59 @@
 	"materials":[
 		{
 			"name":"body",
-			"pbrMetallicRoughness" : {
-			    "baseColorFactor" : [1.0, 0, 1.0]
+			"pbrMetallicRoughness":{
+				"baseColorFactor":[1.0, 0, 1.0, 1.0],
+				"metallicFactor":0.0,
+				"roughnessFactor":0.3
 			}
 		},
 		{
 			"name":"windows",
-            "pbrMetallicRoughness" : {
-                "baseColorFactor" : [0.2794, 0.564, 0.8]
-            }
+			"pbrMetallicRoughness":{
+				"baseColorFactor":[0.05, 0.07, 0.09, 1.0],
+				"metallicFactor":0.0,
+				"roughnessFactor":0.05
+			}
 		},
 		{
 			"name":"lights",
-            "pbrMetallicRoughness" : {
-                "baseColorFactor" : [1, 0.9, 1]
-            }
+			"pbrMetallicRoughness":{
+				"baseColorFactor":[1, 0.9, 1, 1.0],
+				"metallicFactor":0.0,
+				"roughnessFactor":0.1
+			}
 		},
 		{
 			"name":"metal",
-            "pbrMetallicRoughness" : {
-              "baseColorFactor" : [0.448, 0.448, 0.448]
-            }
+			"pbrMetallicRoughness":{
+				"baseColorFactor":[0.448, 0.448, 0.448, 1.0],
+				"metallicFactor":1.0,
+				"roughnessFactor":0.35
+			}
 		},
 		{
 			"name":"tires",
-            "pbrMetallicRoughness" : {
-              "baseColorFactor" : [0.025, 0.025, 0.025]
-            }
+			"pbrMetallicRoughness":{
+				"baseColorFactor":[0.025, 0.025, 0.025, 1.0],
+				"metallicFactor":0.0,
+				"roughnessFactor":0.9
+			}
 		},
 		{
 			"name":"lights.red",
-            "pbrMetallicRoughness" : {
-             "baseColorFactor" : [1, 0.007, 0.011]
-            }
+			"pbrMetallicRoughness":{
+				"baseColorFactor":[1, 0.007, 0.011, 1.0],
+				"metallicFactor":0.0,
+				"roughnessFactor":0.15
+			}
 		},
 		{
 			"name":"lights.orange",
-			"pbrMetallicRoughness" : {
-                "baseColorFactor" : [1, 0.263, 0]
-            }
+			"pbrMetallicRoughness":{
+				"baseColorFactor":[1, 0.263, 0, 1.0],
+				"metallicFactor":0.0,
+				"roughnessFactor":0.15
+			}
 		}
 	],
 	"meshes":[
